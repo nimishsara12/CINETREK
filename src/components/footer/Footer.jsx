@@ -15,6 +15,7 @@ const Footer = () => {
         <footer className="footer">
             <ContentWrapper>
                 <ul className="menuItems">
+                    
                     <li className="menuItem">Terms Of Use</li>
                     <li className="menuItem">Privacy-Policy</li>
                     <li className="menuItem">About</li>
